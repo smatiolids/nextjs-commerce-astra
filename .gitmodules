@@ -1,0 +1,3 @@
+[submodule "next-commerce"]
+	path = next-commerce
+	url = https://github.com/vercel/commerce.git
