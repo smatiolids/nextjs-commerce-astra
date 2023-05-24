@@ -1,3 +1,7 @@
 [submodule "next-commerce"]
 	path = next-commerce
 	url = https://github.com/vercel/commerce.git
+
+[submodule "astra-provider"]
+	path = astra-provider
+	url = https://github.com/smatiolids/nextjs-commerce-astra-provider.git
